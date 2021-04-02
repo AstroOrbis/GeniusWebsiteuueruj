@@ -16,3 +16,14 @@ h1 {
   font-family: "Fira Code";
   color: #3c9e53;
 }
+
+.footer {
+   position: fixed;
+    font-family: "Fira Code";
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: #3c9e53;
+   text-align: center;
+}
